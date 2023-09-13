@@ -1,4 +1,3 @@
-const { clear } = require("console")
 
 const form = document.getElementById('form')
 const formButton = document.getElementById('form__button')
